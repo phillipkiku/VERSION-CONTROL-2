@@ -2,12 +2,14 @@
 ## H2 heading 
 This is just how we add a sentence.... 
 >Editing with git hub
+>testing github
 #### Tech Used
 - HTML
 - CSS
 - VS CODE
 - Php
 - Sql
+- OS
 
 1. HTML
 2. CSS
